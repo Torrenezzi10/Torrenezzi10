@@ -2,7 +2,7 @@
 
 #### **sobre mim**:
 
-meu psudominio na internet é torrenezzi, mas pode me chamar de torre, eu simplismente roubei esse nome de uma marca de sapatos só pq eu achei o nome legal :/
+meu pseudominio na internet é torrenezzi, mas pode me chamar de torre, eu simplismente roubei esse nome de uma marca de sapatos só pq eu achei o nome legal :/
 
 eu também sou aluno do [programa edutech](https://www.educacao.pr.gov.br/programacao)
 
