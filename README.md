@@ -1,16 +1,25 @@
-### Hi there 👋
+### oi
 
-<!--
-**Torrenezzi10/Torrenezzi10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### **sobre mim**:
 
-Here are some ideas to get you started:
+meu psudominio na internet é torrenezzi, mas pode me chamar de torre, eu simplismente roubei esse nome de uma marca de sapatos só pq eu achei o nome legal :/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+eu também sou aluno do [programa edutech](https://www.educacao.pr.gov.br/programacao)
+
+#### **meu pc**:
+
+![neofetch do meu pc](img/neofetch.png)
+
+#### **contato**:
+
+Site: https://torrenezzi10.xyz
+
+XMPP: torre@torrenezzi10.xyz *(meu método de comunicação preferido)*
+
+Discord: torre#0001 *(não estou tão ativo no discord utimamente)*
+
+Telegram: [@Torrenezzi10](https://t.me/Torrenezzi10)
+
+Steam: [Torrenezzi10](https://steamcommunity.com/id/Torrenezzi10)
+
+e por enquanto é só isso mesmo
