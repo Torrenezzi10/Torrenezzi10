@@ -16,7 +16,7 @@ Site: https://torrenezzi10.xyz
 
 XMPP: torre@torrenezzi10.xyz *(meu método de comunicação preferido)*
 
-Discord: torre#0001 *(não estou tão ativo no discord utimamente)*
+Discord: torre#3273 *(não estou tão ativo no discord utimamente)*
 
 Telegram: [@Torrenezzi10](https://t.me/Torrenezzi10)
 
