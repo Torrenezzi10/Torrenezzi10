@@ -8,7 +8,7 @@ eu também sou aluno do [programa edutech](https://www.educacao.pr.gov.br/progra
 
 #### **meu pc**:
 
-![neofetch do meu pc](https://github.com/Torrenezzi10/Torrenezzi10/blob/master/img/neofecth.png?raw=true)
+![neofetch do meu pc](https://github.com/Torrenezzi10/Torrenezzi10/blob/master/neofecth.png?raw=true)
 
 #### **contato**:
 
