@@ -14,8 +14,6 @@ eu também sou aluno do [programa edutech](https://www.educacao.pr.gov.br/progra
 
 Site: https://torrenezzi10.xyz
 
-XMPP: torre@torrenezzi10.xyz *(meu método de comunicação preferido)*
-
 Discord: torre#3273 *(não estou tão ativo no discord utimamente)*
 
 Telegram: [@Torrenezzi10](https://t.me/Torrenezzi10)
