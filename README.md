@@ -4,8 +4,6 @@
 
 meu pseudominio na internet é torrenezzi, mas pode me chamar de torre, eu simplismente roubei esse nome de uma marca de sapatos só pq eu achei o nome legal :/
 
-eu também sou aluno do [programa edutech](https://www.educacao.pr.gov.br/programacao)
-
 #### **meu pc**:
 
 ![neofetch do meu pc](https://raw.githubusercontent.com/Torrenezzi10/Torrenezzi10/master/neofetch.png)
