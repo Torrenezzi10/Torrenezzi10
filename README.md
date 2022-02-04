@@ -6,7 +6,7 @@ meu pseudominio na internet é torrenezzi, mas pode me chamar de torre, eu simpl
 
 #### **meu pc**:
 
-![neofetch do meu pc](https://raw.githubusercontent.com/Torrenezzi10/Torrenezzi10/master/neofetch.png)
+![neofetch do meu pc](https://torrenezzi10.xyz/arquivos/neofetch.png)
 
 #### **contato**:
 
