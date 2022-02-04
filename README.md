@@ -2,7 +2,7 @@
 
 #### **sobre mim**:
 
-meu pseudominio na internet é torrenezzi, mas pode me chamar de torre, eu simplismente roubei esse nome de uma marca de sapatos só pq eu achei o nome legal :/
+meu apelido na internet é torrenezzi, mas pode me chamar de torre, eu simplismente roubei esse nome de uma marca de sapatos só pq eu achei o nome legal :/
 
 #### **meu pc**:
 
