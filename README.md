@@ -4,9 +4,18 @@
 
 meu apelido na internet é torrenezzi, mas pode me chamar de torre, eu simplismente roubei esse nome de uma marca de sapatos só pq eu achei o nome legal :/
 
+#### **minhas linguagens**:
+
+- HTML (Básico)
+- CSS (Básico)
+- JavaScript (praticamente inexistente, mas é uma linguagem pesada e insegura, então quem liga?)
+- Shell Script (Básico)
+
+ou seja, sei quase nada :D
+
 #### **meu pc**:
 
-![neofetch do meu pc](https://torrenezzi10.xyz/arquivos/neofetch.png)
+![neofetch do meu pc](https://torrenezzi10.xyz/arquivos/neofetch-i3.png)
 
 #### **contato**:
 
