@@ -10,7 +10,7 @@ também sou nerd de linux (arch btw) e hospedagem em vps
 
 - HTML (Básico)
 - CSS (Básico)
-- JavaScript (praticamente inexistente, mas é uma linguagem pesada e insegura, então quem liga?)
+- JavaScript (praticamente inexistente, mas é uma linguagem pesada e insegura, então quem liga? :D)
 - Shell Script (Básico)
 
 ou seja, sei quase nada :D
