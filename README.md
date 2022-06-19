@@ -17,7 +17,7 @@ ou seja, sei quase nada :D
 
 #### **meu pc**:
 
-![neofetch do meu pc](https://torrenezzi10.xyz/arquivos/neofetch-i3.png)
+![neofetch do meu pc](https://torrenezzi10.xyz/arquivos/neofetch.png)
 
 #### **contato**:
 
